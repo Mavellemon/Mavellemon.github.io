@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html> lang="zh-cn">
+  <head>
+    <meta charset="utf-8"/>
+    <title>Li Mengen says:"Hello world."</title>
+  </head>
+  <body>
+    <h1>李萌恩的个人经历</h1>
+    <h2>辗转</h2>
+    <h3>我出生于美丽的盛京——沈阳。</h3>
+    <p>沈阳，简称“沈”，古称奉天、盛京，是辽宁省辖地级市、省会、副省级市、特大城市、沈阳都市圈核心城市，《差异化培育提升不同类型城市发展新动能》提出打造成为高能级的国家中心城市之一   、先进装备制造业基地和国家历史文化名城。全市下辖10个区、2个县、代管1个县级市，总面积1.286万平方千米。 
+    沈阳地处中国东北地区、辽宁中部，位于东北亚经济圈和环渤海经济圈的中心，是东北亚的地理中心，中国北部战区司令部驻地   、沈阳联勤保障中心驻所，长三角、珠三角、京津冀地区通往关东地区的综合交通枢纽，一带一路向东北亚、东南亚延伸的重要节点。  沈阳是东北地区政治、经济、文化中心和交通枢纽的中心。
+    沈阳是国家历史文化名城，清朝发祥地，素有“一朝发祥地，两代帝王都”之称 。1625年，清太祖努尔哈赤迁都于此，皇太极建盛京城，并在此建立中国清朝，这是沈阳历史的转折，从军事卫所一跃变为清代两京之一的盛京皇城，开始成为东北的中心城市   。新中国建立后，沈阳成为中国重要的以装备制造业为主的重工业基地，被誉为“共和国装备部”  ，有着“共和国长子”和“东方鲁尔”的美誉。</p>
+    <img src="images/18.jpg">
+    <img src="images/19.jpg">
+    <img src="images/20.jpg">
+    <img src="images/21.jpg">
+    <img src="images/22.jpg">
+    <img src="images/23.jpg">
+    
+    <h3>我的故乡是历史悠久的——周口</h3>
+    <p>周口市，古称龙都、陈州，河南省辖地级市，位于河南省东南部，地处黄淮平原腹地，东临安徽阜阳市，西接漯河市、许昌市，南与驻马店市相连，北和开封市、商丘市接壤。1965年，设立周口专区（后改为周口地区）；2000年，经国务院批准撤销周口地区设立周口市。截至2020年6月，周口市共辖2个区，7个县，代管1个县级市，总面积11959平方千米  ；常住人口为902.6015万人。 
+    周口市交通四通八达，公路、铁路、水路运输交织成网，形成了公路、铁路、水路三位一体的大交通格局。沙颍河自古以来就是通航河道，建成有周口、刘湾两大货运码头，入淮河、汇长江。沙颍河航运可直达南京、上海、杭州。周口是伏羲故都，老子故里，有“华夏先驱、九州圣迹”的美誉，被中华全国伏羲文化研究会誉为“中华文化发祥的重地”。</p>
+    <img src="周口/1.jpg">
+    <img src="周口/2.jpg">
+    <img src="周口/3.jpg">
+    <img src="周口/4.jpg">
+    <img src="周口/5.jpg">
+    
+    <h3>现在在中国的首都——北京</h3>
+    <p>北京（Beijing），简称“京”，古称燕京、北平，是中华人民共和国的首都、直辖市、国家中心城市、超大城市，国务院批复确定的中国政治中心、文化中心、国际交往中心、科技创新中心  ，截至2020年，全市下辖16个区，总面积16410.54平方千米。根据第七次人口普查数据，截至2020年11月1日零时，北京市常住人口为21893095人。 北京地处中国北部、华北平原北部，东与天津毗连，其余均与河北相邻，中心位于东经116°20′、北纬39°56′，是世界著名古都和现代化国际城市，也是中国共产党中央委员会、中华人民共和国中央人民政府和全国人民代表大会常务委员会的办公所在地</p>
+    <img src="北京/1.jpg">
+    <img src="北京/2.webp">
+    <img src="北京/3.webp">
+    <img src="北京/4.webp">
+    
+    <h3>我的大学——北京大学</h3>
+    <p>北京大学（Peking University），简称“北大”，是中华人民共和国教育部直属的全国重点大学，位列“双一流”、“211工程”、“985工程”，入选“学位授权自主审核单位”、“基础学科拔尖学生培养试验计划”、“基础学科招生改革试点”、“高等学校创新能力提升计划”、“高等学校学科创新引智计划”，为九校联盟、松联盟、中国大学校长联谊会、京港大学联盟、亚洲大学联盟、东亚研究型大学协会、国际研究型大学联盟、环太平洋大学联盟、全球大学校长论坛、21世纪学术联盟、东亚四大学论坛、国际公立大学论坛、中俄综合性大学联盟成员。</p>
+    <img src="北京大学/1.jpg">
+    <img src="北京大学/6.jpg">
+    <img src="北京大学/2.jpg">
+    <img src="北京大学/3.jpg">
+    <img src="北京大学/4.jpg">
+    <img src="北京大学/5.jpg">
+   <body/>
+    
+   <style>
+html{
+  width:100%;
+  height: 100%;
+  margin:0;
+  padding:0
+}
+
+body{
+  background-repeat: no-repeat;
+  background-attachment:fixed;
+  -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  background-position:50% 50%; 
+  margin:0;
+  padding:0;
+  width:100%;
+  height:100%;
+  background-image:url(http://www.ruanyifeng.com/images_pub/pub_0.png);
+  -webkit-transition: All 2s ease;
+  -moz-transition: All 2s ease;
+  -o-transition: All 2s ease;
+  -ms-transition: All 2s ease;
+  transition: All 2s ease;
+}
+
+body.one-column #container{
+  background-color:rgba(0,0,0,0.3);
+  border-radius: 1.5em;
+  color: #fefefe;
+
+  overflow: auto; 
+    position: absolute;
+
+  left: 50%;
+  top: 50%;
+  width:auto;
+  height:auto;
+  max-height: 80%;
+  min-width:90%;
+
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+    
+    transition: height 1s ease;
+  transition: top 1s ease;
+}
+
+body.one-column #container p,
+body.one-column #container a{
+  color: #fefefe;
+  text-shadow:0 1px 1px #333
+}
+
+body.one-column #container a:hover{
+  color: #868686;
+  text-decoration: underline;
+}
+
+body.one-column #page-alpha p:hover,
+body.one-column #footer-content a:hover{
+  background-color: #fefefe;
+  color: #222;
+}
+
+body.one-column #footer-content a:hover{
+  padding: 0.25rem;
+  border-radius: 0.5em;
+}
+
+body.one-column #page-alpha p:hover a{
+  color: #222;
+}
+
+body.one-column #page-alpha p{
+  background-color: rgba(0,0,0,0.5);
+  padding: 0.25rem;
+  border-radius: 0.5em;
+  text-shadow:0 1px 1px #333;
+}
+
+body.one-column #header{
+  /* height: 7rem; */
+  display: relative;
+  padding-bottom: 1em;
+}
+
+body.one-column #container h1{
+  font-size: 1.4rem;
+  line-height: 90%;
+  color: #fefefe;
+  float: none;
+  margin: auto;
+  padding-top: 0.4rem;
+  text-align: center;
+  font-weight: bolder;
+  text-shadow:0 1px 1px #333;
+}
+
+body.one-column #header-content:hover h1{
+  text-decoration: underline;
+}
+
+body.one-column #header-content h1:hover{
+  cursor:pointer;
+}
+
+/*
+body.one-column #header-content h1::after{
+  content:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUBAMAAAB/pwA+AAAALVBMVEVkLXAcHBodHRsdHRweHhseHhwfHxwfHx0gIBwgIB0gIB4hIR4hIR8iIiAjIyE9I8U+AAAAAXRSTlMAQObYZgAAAAFiS0dEAIgFHUgAAAAJcEhZcwAACxMAAAsTAQCanBgAAAAHdElNRQfeAQQHLyUKtZO3AAAAcUlEQVQI12NgAAJWBijQYGBnYIIw2RUYeBQYcINJUQyLGJQWQji8SggJdQTzEJyFrEALwT6kowRXsEjd4ABMQZE6WFyOYZGWUqk2iAm0q0g1KADEVDoEVKAKZrIDVQaVQ2zUVEpSCXIAM5lUlZSVAhgAQrASIJnpI9IAAAAASUVORK5CYII=);
+  display:inline-block;
+  background-color: #fefefe;
+  color: #222;
+  margin-left: 0.5em;
+  padding: 5px;
+  border-radius: 100%;
+  visibility: hidden;
+}
+*/
+
+body.one-column #header-content p{
+  text-align: center;
+}
+
+body.one-column #header-content{
+  display:block;
+  text-align: center;
+  margin: auto;
+}
+
+/*
+body.one-column #header-content::before{
+  display: block;
+  margin: 0.1rem auto;
+  width: 80px;
+  height: 80px;
+  content:url(http://www.ruanyifeng.com/blog/images/person4_s.jpg);
+  border-radius: 40px;
+  overflow: hidden;
+}
+*/
+
+@media (min-width: 641px) and (max-width:770px){
+  body.one-column #container{
+    min-width:70%;
+  }
+}
+
+@media (min-width: 771px){
+  body.one-column #container{
+    min-width:40%;
+  }
+}
+
+#up-arrow{
+  position: absolute;
+  right: 5px;
+  top: 5px;
+  width: 21px;
+  height: 21px;
+  background-image: url(data:image/gif;base64,R0lGODlhFgAVALMAAGNkZuLi44CBg5SVlru8vPb29tjZ2aioqW1ucIqLjOrq6sXFxgAAAAAAAAAAAAAAACH5BAAHAP8ALAAAAAAWABUAAARBUMlJq7046837LYVnJYlIEQBAmEqQpoEpvIAgHnR6dEb+GpsCwpdChDID4muQWShpi8+ARBUIqKTBkcXter9gUwQAOw==);
+  background-color: #fefefe;
+  border-radius: 100%;
+    cursor: n-resize;
+}
+
+body.one-column #container.folded{
+  top:15px;
+  margin-top:5px;
+  height:6px;
+  overflow:hidden;
+}
+    </style>
+    
